@@ -1,1 +1,1 @@
-# hh
+# EMNIST-Handwritten letters detection
